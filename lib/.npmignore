@@ -1,0 +1,2 @@
+# Empty file overrides .gitignore, without this dialects/index.js is not being included in npm package
+# Might be a npm v9 thing, see: https://stackoverflow.com/questions/27049192/npm-publish-isnt-including-all-my-files
